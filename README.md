@@ -1,0 +1,1 @@
+Este programa ha sido diseñado como ejemplo para el curso de MiriadaX de Desarrollo en Javascript y Node.js, se genera un numero aleatorio a traves de la funcion random y se imprime en consola con ayuda de un comando if-else si el numero corresponde a un rango menor o mayor a 0.5
